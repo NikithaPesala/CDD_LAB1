@@ -1,8 +1,9 @@
-public class adding(){
-public static void main(String args[]){
-int a=10;
-int b=19;
-int c=55;
-System.out.println(a+b+c);
-}
+public class add {
+
+   public static void main(String[] args) {
+        
+      int num1 = 5, num2 = 15;
+
+      System.out.println(num1+num2);
+   }
 }
